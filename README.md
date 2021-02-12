@@ -1,7 +1,3 @@
-# crugggiero.github.io
-
-
-
-Owner
-
-- Carlo Ruggiero
+Carlo Ruggiero
+========================================================================
+Head on over - 
