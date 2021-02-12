@@ -1,4 +1,7 @@
 # crugggiero.github.io
 
-# credits
-    Carlo Ruggiero
+
+
+Owner
+
+- Carlo Ruggiero
