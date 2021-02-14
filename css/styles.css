@@ -6,8 +6,16 @@ img {
 
 
 .header {
-    padding: 20px;
+    padding: 50px;
     text-align: center;
     background:cornflowerblue;
     color:aliceblue;
+}
+
+.header h2 {
+    font-size: 60px;
+}
+
+.header p {
+    font-size: 30px;
 }
