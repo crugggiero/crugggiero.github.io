@@ -36,13 +36,13 @@ body {
 }
 
 .left {
-    font-size: 10;
+    font-size: 15;
     background-color: blueviolet;
     width: 20%;
 }
 
 .right {
-    font-size: 20;
+    font-size: 15;
     background: brown;
     width: 80%;
 }
